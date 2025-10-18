@@ -1,32 +1,39 @@
-# Olá! Eu sou Antonio Vinicius 👋 Engenheiro em Formação 🚀
+# Olá! Eu sou Antonio Vinicius 👋 Engenheiro de Computação em Formação
 
-### 💻  Desemvolvedor Front-End | 
+### 🎓 Estudante | Desenvolvedor Front-End | Solucionador de Problemas 💡
 
-Apaixonado por dar vida a ideias no navegador! Minha base em **Engenharia de Computação** me equipa com a lógica robusta para construir aplicações Front-End não só bonitas, mas também **otimizadas e de alto desempenho**. Busco sempre a melhor **Experiência do Usuário (UX)**.
+Minha jornada na **Engenharia de Computação** me deu uma base sólida em lógica e sistemas, que aplico com paixão no desenvolvimento Front-End. Meu objetivo é transformar designs complexos em interfaces **intuitivas, eficientes e de alto desempenho**, sempre com foco na melhor experiência do usuário (UX).
 
 ---
 
-### 🛠️ Minhas Ferramentas Favoritas
+### 🛠️ Minhas Habilidades Técnicas (Skills)
 
-Aqui estão as tecnologias que impulsionam meus projetos:
+Abaixo estão as principais linguagens, frameworks e ferramentas que utilizo para construir e otimizar aplicações web:
+
+<div style="display: flex;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,&perline=8" />
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub (Status)
+
+Meu desempenho na plataforma, que reflete meu envolvimento contínuo e aprimoramento:
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioVinicius10&layout=compact&theme=dark)](https://github.com/AntonioVinicius10)
+
+---
+
+### 🎯 Meus Objetivos e Projetos Atuais
+
+Estou sempre focado em aplicar o conhecimento de Engenharia para criar soluções que se destacam:
+
+* **Projeto em Foco:** Atualmente, estou trabalhando em um **em desenvolver um sistema de lanchonete com carpio online, painel admistrativo, entrega,  gestão depedido epor ai vai** para aprofundar minhas habilidades em gerenciamento de estado e integrações de API.
+* **Melhoria Contínua:** Explorando a fundo a criação de componentes acessíveis.
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"> 
-  <br>
-
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    👋 **Obrigado pela visita!**
 </p>
-
----
 
 
