@@ -29,30 +29,4 @@ Aqui estão as tecnologias que impulsionam meus projetos:
 
 ---
 
-### 🌱 Projetos e Aprendizados Atuais
 
-Estou sempre em modo de aprendizado! 🧠
-
-1.  **🚀 Projeto Destaque:** Atualmente, estou desenvolvendo uma aplicação **[Nome/Tipo do Projeto]** usando **[Framework/Tecnologia]**, com foco em **[Otimização/Acessibilidade/SSR]**.
-2.  **📚 Estudo:** Mergulhando em padrões de design de código limpo (*Clean Code*) e aprofundando testes de unidade para garantir a robustez das aplicações.
-3.  **🔗 Engenharia em Prática:** Aplicando conhecimentos de Estruturas de Dados para refatorar código e melhorar a performance geral.
-
----
-
-### 💬 Vamos Conectar!
-
-Estou aberto a novas conexões e oportunidades para colaborar em projetos inovadores.
-
-<p>
-  <a href="[Seu Link do LinkedIn]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:[Seu Email]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-</p>
-
----
-<p align="center">
-  Made with 💙 by Antonio Vinicius 
-</p>
